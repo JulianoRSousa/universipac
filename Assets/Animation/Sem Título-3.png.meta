@@ -1,0 +1,2818 @@
+fileFormatVersion: 2
+guid: 1172ca793e288da4496ed10f9535b387
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1930313583753032436
+    second: "Sem T\xEDtulo-3_0"
+  - first:
+      213: -5829848311822153688
+    second: "Sem T\xEDtulo-3_1"
+  - first:
+      213: -5839306690083083397
+    second: "Sem T\xEDtulo-3_2"
+  - first:
+      213: 4938438935580685339
+    second: "Sem T\xEDtulo-3_3"
+  - first:
+      213: 531897170849788372
+    second: "Sem T\xEDtulo-3_4"
+  - first:
+      213: 4591781862090561703
+    second: "Sem T\xEDtulo-3_5"
+  - first:
+      213: 7440627036773770193
+    second: "Sem T\xEDtulo-3_6"
+  - first:
+      213: 8780515627931770856
+    second: "Sem T\xEDtulo-3_7"
+  - first:
+      213: -7614652112866338463
+    second: "Sem T\xEDtulo-3_8"
+  - first:
+      213: -9088270057273794758
+    second: "Sem T\xEDtulo-3_9"
+  - first:
+      213: -8974474132709633837
+    second: "Sem T\xEDtulo-3_10"
+  - first:
+      213: -5244679584947390326
+    second: "Sem T\xEDtulo-3_11"
+  - first:
+      213: -8001735701914973111
+    second: "Sem T\xEDtulo-3_12"
+  - first:
+      213: -2984490709768697047
+    second: "Sem T\xEDtulo-3_13"
+  - first:
+      213: -7627021497575438088
+    second: "Sem T\xEDtulo-3_14"
+  - first:
+      213: 534316377106863895
+    second: "Sem T\xEDtulo-3_15"
+  - first:
+      213: -5763243738310021975
+    second: "Sem T\xEDtulo-3_16"
+  - first:
+      213: 7186633221574644055
+    second: "Sem T\xEDtulo-3_17"
+  - first:
+      213: -6124366920824082743
+    second: "Sem T\xEDtulo-3_18"
+  - first:
+      213: 3366821097563426493
+    second: "Sem T\xEDtulo-3_19"
+  - first:
+      213: 5771514466111272014
+    second: "Sem T\xEDtulo-3_20"
+  - first:
+      213: -3964296558165231349
+    second: "Sem T\xEDtulo-3_21"
+  - first:
+      213: 7076719947294847226
+    second: "Sem T\xEDtulo-3_22"
+  - first:
+      213: -4043508665706301883
+    second: "Sem T\xEDtulo-3_23"
+  - first:
+      213: -4391684116265440466
+    second: "Sem T\xEDtulo-3_24"
+  - first:
+      213: -2617015299804218315
+    second: "Sem T\xEDtulo-3_25"
+  - first:
+      213: 6553351897929613435
+    second: "Sem T\xEDtulo-3_26"
+  - first:
+      213: -4423916082569446256
+    second: "Sem T\xEDtulo-3_27"
+  - first:
+      213: 3316960807521155100
+    second: "Sem T\xEDtulo-3_28"
+  - first:
+      213: -471179977673044612
+    second: "Sem T\xEDtulo-3_29"
+  - first:
+      213: -8332907766016407103
+    second: "Sem T\xEDtulo-3_30"
+  - first:
+      213: -9090288588719847508
+    second: "Sem T\xEDtulo-3_31"
+  - first:
+      213: -6332765273036041746
+    second: "Sem T\xEDtulo-3_32"
+  - first:
+      213: 4961925767541051186
+    second: "Sem T\xEDtulo-3_33"
+  - first:
+      213: -3047903587213205857
+    second: "Sem T\xEDtulo-3_34"
+  - first:
+      213: -7988529055300583042
+    second: "Sem T\xEDtulo-3_35"
+  - first:
+      213: -360612423395050807
+    second: "Sem T\xEDtulo-3_36"
+  - first:
+      213: -6925773705881700835
+    second: "Sem T\xEDtulo-3_37"
+  - first:
+      213: 1719056326769505992
+    second: "Sem T\xEDtulo-3_38"
+  - first:
+      213: 3478864269306744146
+    second: "Sem T\xEDtulo-3_39"
+  - first:
+      213: -7780939858656540758
+    second: "Sem T\xEDtulo-3_40"
+  - first:
+      213: 6698691210350700262
+    second: "Sem T\xEDtulo-3_41"
+  - first:
+      213: 5791098281979732588
+    second: "Sem T\xEDtulo-3_42"
+  - first:
+      213: 331881711694986831
+    second: "Sem T\xEDtulo-3_43"
+  - first:
+      213: -1404043299080422960
+    second: "Sem T\xEDtulo-3_44"
+  - first:
+      213: 359599890830069931
+    second: "Sem T\xEDtulo-3_45"
+  - first:
+      213: 1898628279991375726
+    second: "Sem T\xEDtulo-3_46"
+  - first:
+      213: 2457462201492694043
+    second: "Sem T\xEDtulo-3_47"
+  - first:
+      213: 2176516043217810661
+    second: "Sem T\xEDtulo-3_48"
+  - first:
+      213: 7327895115848567394
+    second: "Sem T\xEDtulo-3_49"
+  - first:
+      213: -1345689975683500263
+    second: "Sem T\xEDtulo-3_50"
+  - first:
+      213: 1621553491208403309
+    second: "Sem T\xEDtulo-3_51"
+  - first:
+      213: -656750047756548634
+    second: "Sem T\xEDtulo-3_52"
+  - first:
+      213: 6039882186659981267
+    second: "Sem T\xEDtulo-3_53"
+  - first:
+      213: -6572377248297703754
+    second: "Sem T\xEDtulo-3_54"
+  - first:
+      213: -7537824045314841045
+    second: "Sem T\xEDtulo-3_55"
+  - first:
+      213: -3143412468353139975
+    second: "Sem T\xEDtulo-3_56"
+  - first:
+      213: -4957438062651345988
+    second: "Sem T\xEDtulo-3_57"
+  - first:
+      213: -247726542398202248
+    second: "Sem T\xEDtulo-3_58"
+  - first:
+      213: 1008661932764888177
+    second: "Sem T\xEDtulo-3_59"
+  - first:
+      213: 5476612817646701633
+    second: "Sem T\xEDtulo-3_60"
+  - first:
+      213: -4125901057760308352
+    second: "Sem T\xEDtulo-3_61"
+  - first:
+      213: 5310466344875105319
+    second: "Sem T\xEDtulo-3_62"
+  - first:
+      213: -6726639763562773309
+    second: "Sem T\xEDtulo-3_63"
+  - first:
+      213: -1430496572770933833
+    second: "Sem T\xEDtulo-3_64"
+  - first:
+      213: -1370198223624581706
+    second: "Sem T\xEDtulo-3_65"
+  - first:
+      213: 3034803809190776370
+    second: "Sem T\xEDtulo-3_66"
+  - first:
+      213: -2970236288321893980
+    second: "Sem T\xEDtulo-3_67"
+  - first:
+      213: 6483761452976696534
+    second: "Sem T\xEDtulo-3_68"
+  - first:
+      213: 1397522645267787821
+    second: "Sem T\xEDtulo-3_69"
+  - first:
+      213: -8048910529546881871
+    second: "Sem T\xEDtulo-3_70"
+  - first:
+      213: 1342617621494372547
+    second: "Sem T\xEDtulo-3_71"
+  - first:
+      213: 9090305628794309320
+    second: "Sem T\xEDtulo-3_72"
+  - first:
+      213: -5926653994473273432
+    second: "Sem T\xEDtulo-3_73"
+  - first:
+      213: -7803977346949939159
+    second: "Sem T\xEDtulo-3_74"
+  - first:
+      213: 8629491616566120684
+    second: "Sem T\xEDtulo-3_75"
+  - first:
+      213: 3353363944543464678
+    second: "Sem T\xEDtulo-3_76"
+  - first:
+      213: -3923832401394754249
+    second: "Sem T\xEDtulo-3_77"
+  - first:
+      213: -7429220543529464014
+    second: "Sem T\xEDtulo-3_78"
+  - first:
+      213: -2620365919962373561
+    second: "Sem T\xEDtulo-3_79"
+  - first:
+      213: 8978998068281079054
+    second: "Sem T\xEDtulo-3_80"
+  - first:
+      213: 35291761937693905
+    second: "Sem T\xEDtulo-3_81"
+  - first:
+      213: 3368227279484104793
+    second: "Sem T\xEDtulo-3_82"
+  - first:
+      213: -6361326612506262520
+    second: "Sem T\xEDtulo-3_83"
+  - first:
+      213: -7263140345332737421
+    second: "Sem T\xEDtulo-3_84"
+  - first:
+      213: 5117614398169144547
+    second: "Sem T\xEDtulo-3_85"
+  - first:
+      213: 8185334646488910513
+    second: "Sem T\xEDtulo-3_86"
+  - first:
+      213: -8444264970888222131
+    second: "Sem T\xEDtulo-3_87"
+  - first:
+      213: -3620935758850147140
+    second: "Sem T\xEDtulo-3_88"
+  - first:
+      213: -6607738247977970111
+    second: "Sem T\xEDtulo-3_89"
+  - first:
+      213: -4507623242148709016
+    second: "Sem T\xEDtulo-3_90"
+  - first:
+      213: 6528128406891294444
+    second: "Sem T\xEDtulo-3_91"
+  - first:
+      213: 3738312899714622043
+    second: "Sem T\xEDtulo-3_92"
+  - first:
+      213: 4338199872470956370
+    second: "Sem T\xEDtulo-3_93"
+  - first:
+      213: -4817474692843444264
+    second: "Sem T\xEDtulo-3_94"
+  - first:
+      213: 4140229618944654061
+    second: "Sem T\xEDtulo-3_95"
+  - first:
+      213: 1506287709037680012
+    second: "Sem T\xEDtulo-3_96"
+  - first:
+      213: 8788466626545512771
+    second: "Sem T\xEDtulo-3_97"
+  - first:
+      213: 6872405330234359823
+    second: "Sem T\xEDtulo-3_98"
+  - first:
+      213: -6778263210417073897
+    second: "Sem T\xEDtulo-3_99"
+  - first:
+      213: 915673585558253642
+    second: "Sem T\xEDtulo-3_100"
+  - first:
+      213: 2553273889177518456
+    second: "Sem T\xEDtulo-3_101"
+  - first:
+      213: -6351477748981852452
+    second: "Sem T\xEDtulo-3_102"
+  - first:
+      213: -4794585051754152504
+    second: "Sem T\xEDtulo-3_103"
+  - first:
+      213: -3057469291632280955
+    second: "Sem T\xEDtulo-3_104"
+  - first:
+      213: -3788314032703989028
+    second: "Sem T\xEDtulo-3_105"
+  - first:
+      213: 6218842807635138675
+    second: "Sem T\xEDtulo-3_106"
+  - first:
+      213: -1638781251825197293
+    second: "Sem T\xEDtulo-3_107"
+  - first:
+      213: -7480589013795180245
+    second: "Sem T\xEDtulo-3_108"
+  - first:
+      213: -3644692527910785537
+    second: "Sem T\xEDtulo-3_109"
+  - first:
+      213: 6479996278466042788
+    second: "Sem T\xEDtulo-3_110"
+  - first:
+      213: -4257198690825296925
+    second: "Sem T\xEDtulo-3_111"
+  - first:
+      213: -7199708048314124778
+    second: "Sem T\xEDtulo-3_112"
+  - first:
+      213: -9099868134944772662
+    second: "Sem T\xEDtulo-3_113"
+  - first:
+      213: 4194732508609392970
+    second: "Sem T\xEDtulo-3_114"
+  - first:
+      213: -1510408915190482094
+    second: "Sem T\xEDtulo-3_115"
+  - first:
+      213: 4579291792136100829
+    second: "Sem T\xEDtulo-3_116"
+  - first:
+      213: 4474708714650537113
+    second: "Sem T\xEDtulo-3_117"
+  - first:
+      213: 3978622471006929647
+    second: "Sem T\xEDtulo-3_118"
+  - first:
+      213: -7996770555696213299
+    second: "Sem T\xEDtulo-3_119"
+  - first:
+      213: 3707251050768359314
+    second: "Sem T\xEDtulo-3_120"
+  - first:
+      213: -5364246330792269629
+    second: "Sem T\xEDtulo-3_121"
+  - first:
+      213: -153161767566588692
+    second: "Sem T\xEDtulo-3_122"
+  - first:
+      213: 4552697309228623462
+    second: "Sem T\xEDtulo-3_123"
+  - first:
+      213: 6698191372296002190
+    second: "Sem T\xEDtulo-3_124"
+  - first:
+      213: -7198816159810082264
+    second: "Sem T\xEDtulo-3_125"
+  - first:
+      213: -1819620465493234589
+    second: "Sem T\xEDtulo-3_126"
+  - first:
+      213: -1204226878713867032
+    second: "Sem T\xEDtulo-3_127"
+  - first:
+      213: 7219778687285269396
+    second: "Sem T\xEDtulo-3_128"
+  - first:
+      213: -3060509661405013402
+    second: "Sem T\xEDtulo-3_129"
+  - first:
+      213: 3816170090078918892
+    second: "Sem T\xEDtulo-3_130"
+  - first:
+      213: 5856954472572654680
+    second: "Sem T\xEDtulo-3_131"
+  - first:
+      213: -3623978950538930590
+    second: "Sem T\xEDtulo-3_132"
+  - first:
+      213: 3059563338314948761
+    second: "Sem T\xEDtulo-3_133"
+  - first:
+      213: 1835028865977922012
+    second: "Sem T\xEDtulo-3_134"
+  - first:
+      213: 2449395669847490219
+    second: "Sem T\xEDtulo-3_135"
+  - first:
+      213: -6806965638969742391
+    second: "Sem T\xEDtulo-3_136"
+  - first:
+      213: -3938813139759037816
+    second: "Sem T\xEDtulo-3_137"
+  - first:
+      213: -1980207243081753079
+    second: "Sem T\xEDtulo-3_138"
+  - first:
+      213: -8421119385800355953
+    second: "Sem T\xEDtulo-3_139"
+  - first:
+      213: -6750095884837455217
+    second: "Sem T\xEDtulo-3_140"
+  - first:
+      213: -4187014693153934797
+    second: "Sem T\xEDtulo-3_141"
+  - first:
+      213: -158488010097779880
+    second: "Sem T\xEDtulo-3_142"
+  - first:
+      213: 8545672524523789547
+    second: "Sem T\xEDtulo-3_143"
+  - first:
+      213: -939100302255420992
+    second: "Sem T\xEDtulo-3_144"
+  - first:
+      213: -6816618297273714856
+    second: "Sem T\xEDtulo-3_145"
+  - first:
+      213: 4188845762325238441
+    second: "Sem T\xEDtulo-3_146"
+  - first:
+      213: 6242118863013523814
+    second: "Sem T\xEDtulo-3_147"
+  - first:
+      213: -4388162670037842908
+    second: "Sem T\xEDtulo-3_148"
+  - first:
+      213: 3111550856699645637
+    second: "Sem T\xEDtulo-3_149"
+  - first:
+      213: -4364355610596246865
+    second: "Sem T\xEDtulo-3_150"
+  - first:
+      213: -4434494138793327664
+    second: "Sem T\xEDtulo-3_151"
+  - first:
+      213: 7270186205386360825
+    second: "Sem T\xEDtulo-3_152"
+  - first:
+      213: -82893234716251535
+    second: "Sem T\xEDtulo-3_153"
+  - first:
+      213: 4534316495437127587
+    second: "Sem T\xEDtulo-3_154"
+  - first:
+      213: -3569993764695005385
+    second: "Sem T\xEDtulo-3_155"
+  - first:
+      213: -604462892427229690
+    second: "Sem T\xEDtulo-3_156"
+  - first:
+      213: 5812549238498713972
+    second: "Sem T\xEDtulo-3_157"
+  - first:
+      213: -7282084647121274282
+    second: "Sem T\xEDtulo-3_158"
+  - first:
+      213: -5712253999360862560
+    second: "Sem T\xEDtulo-3_159"
+  - first:
+      213: -4787831869460008675
+    second: "Sem T\xEDtulo-3_160"
+  - first:
+      213: -6602248196580699779
+    second: "Sem T\xEDtulo-3_161"
+  - first:
+      213: -620791056897872453
+    second: "Sem T\xEDtulo-3_162"
+  - first:
+      213: -4523052086398756759
+    second: "Sem T\xEDtulo-3_163"
+  - first:
+      213: 2066991985716318752
+    second: "Sem T\xEDtulo-3_164"
+  - first:
+      213: 7037216829687529756
+    second: "Sem T\xEDtulo-3_165"
+  - first:
+      213: -9220663278775156473
+    second: "Sem T\xEDtulo-3_166"
+  - first:
+      213: -4149616166916020867
+    second: "Sem T\xEDtulo-3_167"
+  - first:
+      213: 8376027658699997221
+    second: "Sem T\xEDtulo-3_168"
+  - first:
+      213: -3194049931064224514
+    second: "Sem T\xEDtulo-3_169"
+  - first:
+      213: -4580938880373027990
+    second: "Sem T\xEDtulo-3_170"
+  - first:
+      213: -2665846826785925231
+    second: "Sem T\xEDtulo-3_171"
+  - first:
+      213: 5202933535696521137
+    second: "Sem T\xEDtulo-3_172"
+  - first:
+      213: 9096522516001335176
+    second: "Sem T\xEDtulo-3_173"
+  - first:
+      213: 5025160654017919335
+    second: "Sem T\xEDtulo-3_174"
+  - first:
+      213: -1732867846682381786
+    second: "Sem T\xEDtulo-3_175"
+  - first:
+      213: -8967780329342803680
+    second: "Sem T\xEDtulo-3_176"
+  - first:
+      213: 5305370173810042937
+    second: "Sem T\xEDtulo-3_177"
+  - first:
+      213: 4404839263469898883
+    second: "Sem T\xEDtulo-3_178"
+  - first:
+      213: -3193006878757538074
+    second: "Sem T\xEDtulo-3_179"
+  - first:
+      213: -7443846265134482312
+    second: "Sem T\xEDtulo-3_180"
+  - first:
+      213: 1812093276804330666
+    second: "Sem T\xEDtulo-3_181"
+  - first:
+      213: 6997527517528833096
+    second: "Sem T\xEDtulo-3_182"
+  - first:
+      213: 847619103842827409
+    second: "Sem T\xEDtulo-3_183"
+  - first:
+      213: -5286986102084718300
+    second: "Sem T\xEDtulo-3_184"
+  - first:
+      213: 1131272286923153947
+    second: "Sem T\xEDtulo-3_185"
+  - first:
+      213: -438825598578330209
+    second: "Sem T\xEDtulo-3_186"
+  - first:
+      213: -4367900168648984443
+    second: "Sem T\xEDtulo-3_187"
+  - first:
+      213: 7703431624751576421
+    second: "Sem T\xEDtulo-3_188"
+  - first:
+      213: -4405874818098822974
+    second: "Sem T\xEDtulo-3_189"
+  - first:
+      213: 6580148301384520070
+    second: "Sem T\xEDtulo-3_190"
+  - first:
+      213: 897161653620477643
+    second: "Sem T\xEDtulo-3_191"
+  - first:
+      213: 4000665330504545192
+    second: "Sem T\xEDtulo-3_192"
+  - first:
+      213: 8924193727446064919
+    second: "Sem T\xEDtulo-3_193"
+  - first:
+      213: 3666565781217850956
+    second: "Sem T\xEDtulo-3_194"
+  - first:
+      213: 4127278754273524555
+    second: "Sem T\xEDtulo-3_195"
+  - first:
+      213: 207982156481934744
+    second: "Sem T\xEDtulo-3_196"
+  - first:
+      213: 6543724987768152112
+    second: "Sem T\xEDtulo-3_197"
+  - first:
+      213: -2348623786337091235
+    second: "Sem T\xEDtulo-3_198"
+  - first:
+      213: 2244426756963918253
+    second: "Sem T\xEDtulo-3_199"
+  - first:
+      213: -3745850632759403543
+    second: "Sem T\xEDtulo-3_200"
+  - first:
+      213: -3847177177726183086
+    second: "Sem T\xEDtulo-3_201"
+  - first:
+      213: 6096828635071984814
+    second: "Sem T\xEDtulo-3_202"
+  - first:
+      213: -498021143489213236
+    second: "Sem T\xEDtulo-3_203"
+  - first:
+      213: -8931647602033181540
+    second: "Sem T\xEDtulo-3_204"
+  - first:
+      213: 5640913504145997191
+    second: "Sem T\xEDtulo-3_205"
+  - first:
+      213: -3543697560163339955
+    second: "Sem T\xEDtulo-3_206"
+  - first:
+      213: -3345258017888747961
+    second: "Sem T\xEDtulo-3_207"
+  - first:
+      213: -1676985050004813351
+    second: "Sem T\xEDtulo-3_208"
+  - first:
+      213: -3852927320962822062
+    second: "Sem T\xEDtulo-3_209"
+  - first:
+      213: 7255078039664998163
+    second: "Sem T\xEDtulo-3_210"
+  - first:
+      213: -6157443474854316501
+    second: "Sem T\xEDtulo-3_211"
+  - first:
+      213: -4414491850311854190
+    second: "Sem T\xEDtulo-3_212"
+  - first:
+      213: 7658143701772172269
+    second: "Sem T\xEDtulo-3_213"
+  - first:
+      213: -6889085597368345749
+    second: "Sem T\xEDtulo-3_214"
+  - first:
+      213: 5620364929603351673
+    second: "Sem T\xEDtulo-3_215"
+  - first:
+      213: -4360548106473227789
+    second: "Sem T\xEDtulo-3_216"
+  - first:
+      213: 5023756195769262088
+    second: "Sem T\xEDtulo-3_217"
+  - first:
+      213: 8699128316486235942
+    second: "Sem T\xEDtulo-3_218"
+  - first:
+      213: -4104940015691057434
+    second: "Sem T\xEDtulo-3_219"
+  - first:
+      213: -6845049618156181848
+    second: "Sem T\xEDtulo-3_220"
+  - first:
+      213: -5485756116731265865
+    second: "Sem T\xEDtulo-3_221"
+  - first:
+      213: -5501342707121064216
+    second: "Sem T\xEDtulo-3_222"
+  - first:
+      213: -5368530793709027940
+    second: "Sem T\xEDtulo-3_223"
+  - first:
+      213: -4291195236113425216
+    second: "Sem T\xEDtulo-3_224"
+  - first:
+      213: -3656598252066225235
+    second: "Sem T\xEDtulo-3_225"
+  - first:
+      213: 2559314165413696745
+    second: "Sem T\xEDtulo-3_226"
+  - first:
+      213: -1028701310263142123
+    second: "Sem T\xEDtulo-3_227"
+  - first:
+      213: -2123409487935005493
+    second: "Sem T\xEDtulo-3_228"
+  - first:
+      213: -6824302991354559456
+    second: "Sem T\xEDtulo-3_229"
+  - first:
+      213: -7681657742337543619
+    second: "Sem T\xEDtulo-3_230"
+  - first:
+      213: -6550388950810099725
+    second: "Sem T\xEDtulo-3_231"
+  - first:
+      213: 1663911769603139181
+    second: "Sem T\xEDtulo-3_232"
+  - first:
+      213: 4413784617241487981
+    second: "Sem T\xEDtulo-3_233"
+  - first:
+      213: 1151333623522745572
+    second: "Sem T\xEDtulo-3_234"
+  - first:
+      213: 1481162328449257612
+    second: "Sem T\xEDtulo-3_235"
+  - first:
+      213: -8754409576221448332
+    second: "Sem T\xEDtulo-3_236"
+  - first:
+      213: 1944889232609095570
+    second: "Sem T\xEDtulo-3_237"
+  - first:
+      213: -1299418938733246208
+    second: "Sem T\xEDtulo-3_238"
+  - first:
+      213: -1051475001226700605
+    second: "Sem T\xEDtulo-3_239"
+  - first:
+      213: -398770001183269881
+    second: "Sem T\xEDtulo-3_240"
+  - first:
+      213: -3696029758714834385
+    second: "Sem T\xEDtulo-3_241"
+  - first:
+      213: -2699073045142928191
+    second: "Sem T\xEDtulo-3_242"
+  - first:
+      213: 1660716959319613694
+    second: "Sem T\xEDtulo-3_243"
+  - first:
+      213: -1874269411736038273
+    second: "Sem T\xEDtulo-3_244"
+  - first:
+      213: -8370558618352440895
+    second: "Sem T\xEDtulo-3_245"
+  - first:
+      213: 2878593286145419224
+    second: "Sem T\xEDtulo-3_246"
+  - first:
+      213: 2975774674335839243
+    second: "Sem T\xEDtulo-3_247"
+  - first:
+      213: -212765066151659479
+    second: "Sem T\xEDtulo-3_248"
+  - first:
+      213: 4065386565941122458
+    second: "Sem T\xEDtulo-3_249"
+  - first:
+      213: -6421691685488722488
+    second: "Sem T\xEDtulo-3_250"
+  - first:
+      213: 6784708949389883492
+    second: "Sem T\xEDtulo-3_251"
+  - first:
+      213: -5447320146723340342
+    second: "Sem T\xEDtulo-3_252"
+  - first:
+      213: -8708855996222885151
+    second: "Sem T\xEDtulo-3_253"
+  - first:
+      213: 6891236177159287345
+    second: "Sem T\xEDtulo-3_254"
+  - first:
+      213: -7539162293180059054
+    second: "Sem T\xEDtulo-3_255"
+  - first:
+      213: -3576243075215652086
+    second: "Sem T\xEDtulo-3_256"
+  - first:
+      213: -4982022157093785840
+    second: "Sem T\xEDtulo-3_257"
+  - first:
+      213: 5967723055594073514
+    second: "Sem T\xEDtulo-3_258"
+  - first:
+      213: -4707421572905545943
+    second: "Sem T\xEDtulo-3_259"
+  - first:
+      213: 7644462781323367541
+    second: "Sem T\xEDtulo-3_260"
+  - first:
+      213: 4285151224267666965
+    second: "Sem T\xEDtulo-3_261"
+  - first:
+      213: -3656552123683855195
+    second: "Sem T\xEDtulo-3_262"
+  - first:
+      213: 1094521480983984439
+    second: "Sem T\xEDtulo-3_263"
+  - first:
+      213: -5553066739856089017
+    second: "Sem T\xEDtulo-3_264"
+  - first:
+      213: -6319234088898291221
+    second: "Sem T\xEDtulo-3_265"
+  - first:
+      213: -1288427298750804182
+    second: "Sem T\xEDtulo-3_266"
+  - first:
+      213: -4758718673232205781
+    second: "Sem T\xEDtulo-3_267"
+  - first:
+      213: 7018180734630371181
+    second: "Sem T\xEDtulo-3_268"
+  - first:
+      213: -7835331385849575359
+    second: "Sem T\xEDtulo-3_269"
+  - first:
+      213: 4006626763528190159
+    second: "Sem T\xEDtulo-3_270"
+  - first:
+      213: -7484857451360956489
+    second: "Sem T\xEDtulo-3_271"
+  - first:
+      213: 2273744500420187854
+    second: "Sem T\xEDtulo-3_272"
+  - first:
+      213: 8189388765662705224
+    second: "Sem T\xEDtulo-3_273"
+  - first:
+      213: -1339595534908645504
+    second: "Sem T\xEDtulo-3_274"
+  - first:
+      213: -5533593102030202660
+    second: "Sem T\xEDtulo-3_275"
+  - first:
+      213: -3989189404263661715
+    second: "Sem T\xEDtulo-3_276"
+  - first:
+      213: 9140964046432206225
+    second: "Sem T\xEDtulo-3_277"
+  - first:
+      213: 8382942759633557981
+    second: "Sem T\xEDtulo-3_278"
+  - first:
+      213: -3143049579379061800
+    second: "Sem T\xEDtulo-3_279"
+  - first:
+      213: -2254304349015293595
+    second: "Sem T\xEDtulo-3_280"
+  - first:
+      213: 5278845306992584228
+    second: "Sem T\xEDtulo-3_281"
+  - first:
+      213: 2538858210548934923
+    second: "Sem T\xEDtulo-3_282"
+  - first:
+      213: -8262724049083810718
+    second: "Sem T\xEDtulo-3_283"
+  - first:
+      213: -5156768751934907343
+    second: "Sem T\xEDtulo-3_284"
+  - first:
+      213: -920754740498247257
+    second: "Sem T\xEDtulo-3_285"
+  - first:
+      213: 2092566060625938721
+    second: "Sem T\xEDtulo-3_286"
+  - first:
+      213: 7197143968628904901
+    second: "Sem T\xEDtulo-3_287"
+  - first:
+      213: -8358613186054587899
+    second: "Sem T\xEDtulo-3_288"
+  - first:
+      213: -1701949305070532715
+    second: "Sem T\xEDtulo-3_289"
+  - first:
+      213: 7084596849918299691
+    second: "Sem T\xEDtulo-3_290"
+  - first:
+      213: -9007051743128221962
+    second: "Sem T\xEDtulo-3_291"
+  - first:
+      213: -7504520848931889210
+    second: "Sem T\xEDtulo-3_292"
+  - first:
+      213: -5469991476540963223
+    second: "Sem T\xEDtulo-3_293"
+  - first:
+      213: 2864711304516943652
+    second: "Sem T\xEDtulo-3_294"
+  - first:
+      213: 5966047313338694740
+    second: "Sem T\xEDtulo-3_295"
+  - first:
+      213: -2541009693855657631
+    second: "Sem T\xEDtulo-3_296"
+  - first:
+      213: -1404400748567738527
+    second: "Sem T\xEDtulo-3_297"
+  - first:
+      213: -1734934607498343010
+    second: "Sem T\xEDtulo-3_298"
+  - first:
+      213: -798250189768751113
+    second: "Sem T\xEDtulo-3_299"
+  - first:
+      213: -8517877204001821579
+    second: "Sem T\xEDtulo-3_300"
+  - first:
+      213: 7634574200753629057
+    second: "Sem T\xEDtulo-3_301"
+  - first:
+      213: -4594345867651410926
+    second: "Sem T\xEDtulo-3_302"
+  - first:
+      213: -2141331880921706740
+    second: "Sem T\xEDtulo-3_303"
+  - first:
+      213: 136836886342283338
+    second: "Sem T\xEDtulo-3_304"
+  - first:
+      213: 6120776055171505523
+    second: "Sem T\xEDtulo-3_305"
+  - first:
+      213: -4714606317432448822
+    second: "Sem T\xEDtulo-3_306"
+  - first:
+      213: 5011132286339641396
+    second: "Sem T\xEDtulo-3_307"
+  - first:
+      213: -2032842051779824568
+    second: "Sem T\xEDtulo-3_308"
+  - first:
+      213: 9085302990436022318
+    second: "Sem T\xEDtulo-3_309"
+  - first:
+      213: -7365271295360100297
+    second: "Sem T\xEDtulo-3_310"
+  - first:
+      213: 3764923835048784171
+    second: "Sem T\xEDtulo-3_311"
+  - first:
+      213: 9163161260729283363
+    second: "Sem T\xEDtulo-3_312"
+  - first:
+      213: -4790260916596554834
+    second: "Sem T\xEDtulo-3_313"
+  - first:
+      213: 5961409661499183102
+    second: "Sem T\xEDtulo-3_314"
+  - first:
+      213: 737067287524854771
+    second: "Sem T\xEDtulo-3_315"
+  - first:
+      213: -7542276271921004895
+    second: "Sem T\xEDtulo-3_316"
+  - first:
+      213: -4811855107160579198
+    second: "Sem T\xEDtulo-3_317"
+  - first:
+      213: 7129501396213591621
+    second: "Sem T\xEDtulo-3_318"
+  - first:
+      213: -7865547901982446780
+    second: "Sem T\xEDtulo-3_319"
+  - first:
+      213: -847022480077189536
+    second: "Sem T\xEDtulo-3_320"
+  - first:
+      213: -9141265190534877627
+    second: "Sem T\xEDtulo-3_321"
+  - first:
+      213: 8791446980906369192
+    second: "Sem T\xEDtulo-3_322"
+  - first:
+      213: -5006856833339859198
+    second: "Sem T\xEDtulo-3_323"
+  - first:
+      213: 5739705700531271720
+    second: "Sem T\xEDtulo-3_324"
+  - first:
+      213: -2547397934511738769
+    second: "Sem T\xEDtulo-3_325"
+  - first:
+      213: -3306480866759083532
+    second: "Sem T\xEDtulo-3_326"
+  - first:
+      213: 3093729532608271469
+    second: "Sem T\xEDtulo-3_327"
+  - first:
+      213: -9199348205269548376
+    second: "Sem T\xEDtulo-3_328"
+  - first:
+      213: 5725846645849392360
+    second: "Sem T\xEDtulo-3_329"
+  - first:
+      213: 4787384689830601943
+    second: "Sem T\xEDtulo-3_330"
+  - first:
+      213: 6747677303969838836
+    second: "Sem T\xEDtulo-3_331"
+  - first:
+      213: -670670262853965544
+    second: "Sem T\xEDtulo-3_332"
+  - first:
+      213: 8329934793493270881
+    second: "Sem T\xEDtulo-3_333"
+  - first:
+      213: -2929669740185105569
+    second: "Sem T\xEDtulo-3_334"
+  - first:
+      213: -158300659525998944
+    second: "Sem T\xEDtulo-3_335"
+  - first:
+      213: -3326777828268653847
+    second: "Sem T\xEDtulo-3_336"
+  - first:
+      213: -1326230537058054012
+    second: "Sem T\xEDtulo-3_337"
+  - first:
+      213: -8981463773487715562
+    second: "Sem T\xEDtulo-3_338"
+  - first:
+      213: -7801841032976312993
+    second: "Sem T\xEDtulo-3_339"
+  - first:
+      213: 6790388522231347737
+    second: "Sem T\xEDtulo-3_340"
+  - first:
+      213: -3002477551836448268
+    second: "Sem T\xEDtulo-3_341"
+  - first:
+      213: 842251128498176067
+    second: "Sem T\xEDtulo-3_342"
+  - first:
+      213: 5423156912024496786
+    second: "Sem T\xEDtulo-3_343"
+  - first:
+      213: 6045240079315778211
+    second: "Sem T\xEDtulo-3_344"
+  - first:
+      213: 2642151265873100596
+    second: "Sem T\xEDtulo-3_345"
+  - first:
+      213: -8863833387688293394
+    second: "Sem T\xEDtulo-3_346"
+  - first:
+      213: -8988471116729716116
+    second: "Sem T\xEDtulo-3_347"
+  - first:
+      213: -1408376528220234477
+    second: "Sem T\xEDtulo-3_348"
+  - first:
+      213: 6062951199724219144
+    second: "Sem T\xEDtulo-3_349"
+  - first:
+      213: 6206231730363828632
+    second: "Sem T\xEDtulo-3_350"
+  - first:
+      213: 3394061396592674858
+    second: "Sem T\xEDtulo-3_351"
+  - first:
+      213: 2550659216527218948
+    second: "Sem T\xEDtulo-3_352"
+  - first:
+      213: -3824422201244597089
+    second: "Sem T\xEDtulo-3_353"
+  - first:
+      213: 5737278175188376074
+    second: "Sem T\xEDtulo-3_354"
+  - first:
+      213: 7839234261032711868
+    second: "Sem T\xEDtulo-3_355"
+  - first:
+      213: 3304249275871334831
+    second: "Sem T\xEDtulo-3_356"
+  - first:
+      213: -5217828038238322146
+    second: "Sem T\xEDtulo-3_357"
+  - first:
+      213: -2188547966918037544
+    second: "Sem T\xEDtulo-3_358"
+  - first:
+      213: -3147175296164993022
+    second: "Sem T\xEDtulo-3_359"
+  - first:
+      213: -2705425383988421562
+    second: "Sem T\xEDtulo-3_360"
+  - first:
+      213: -8443170511093590333
+    second: "Sem T\xEDtulo-3_361"
+  - first:
+      213: 7694897893851002512
+    second: "Sem T\xEDtulo-3_362"
+  - first:
+      213: -5899676648295392662
+    second: "Sem T\xEDtulo-3_363"
+  - first:
+      213: 5032477937512884742
+    second: "Sem T\xEDtulo-3_364"
+  - first:
+      213: -3156575112964280707
+    second: "Sem T\xEDtulo-3_365"
+  - first:
+      213: -3582194739443417949
+    second: "Sem T\xEDtulo-3_366"
+  - first:
+      213: -2999349294743532055
+    second: "Sem T\xEDtulo-3_367"
+  - first:
+      213: -3791776836349536919
+    second: "Sem T\xEDtulo-3_368"
+  - first:
+      213: -7204377019583784618
+    second: "Sem T\xEDtulo-3_369"
+  - first:
+      213: 6331927177226286446
+    second: "Sem T\xEDtulo-3_370"
+  - first:
+      213: 8923469194360606708
+    second: "Sem T\xEDtulo-3_371"
+  - first:
+      213: 6177681409172988191
+    second: "Sem T\xEDtulo-3_372"
+  - first:
+      213: -2644977291118817683
+    second: "Sem T\xEDtulo-3_373"
+  - first:
+      213: -5809822588791282702
+    second: "Sem T\xEDtulo-3_374"
+  - first:
+      213: -5557942327181915540
+    second: "Sem T\xEDtulo-3_375"
+  - first:
+      213: 5326668400231905949
+    second: "Sem T\xEDtulo-3_376"
+  - first:
+      213: -1395367370306885886
+    second: "Sem T\xEDtulo-3_377"
+  - first:
+      213: -2447900117295400901
+    second: "Sem T\xEDtulo-3_378"
+  - first:
+      213: 6054578072758139035
+    second: "Sem T\xEDtulo-3_379"
+  - first:
+      213: 5594132002782073738
+    second: "Sem T\xEDtulo-3_380"
+  - first:
+      213: 7904763457312646705
+    second: "Sem T\xEDtulo-3_381"
+  - first:
+      213: -9144478748231693522
+    second: "Sem T\xEDtulo-3_382"
+  - first:
+      213: 4401499409654639593
+    second: "Sem T\xEDtulo-3_383"
+  - first:
+      213: 4114444009405978923
+    second: "Sem T\xEDtulo-3_384"
+  - first:
+      213: -5084923151947298735
+    second: "Sem T\xEDtulo-3_385"
+  - first:
+      213: 7274472543408866767
+    second: "Sem T\xEDtulo-3_386"
+  - first:
+      213: 152155700954806546
+    second: "Sem T\xEDtulo-3_387"
+  - first:
+      213: 4014121714163378405
+    second: "Sem T\xEDtulo-3_388"
+  - first:
+      213: -1938157497606031600
+    second: "Sem T\xEDtulo-3_389"
+  - first:
+      213: -8545075319665202231
+    second: "Sem T\xEDtulo-3_390"
+  - first:
+      213: -747960878206390540
+    second: "Sem T\xEDtulo-3_391"
+  - first:
+      213: -317385477488274555
+    second: "Sem T\xEDtulo-3_392"
+  - first:
+      213: 4216280236635390264
+    second: "Sem T\xEDtulo-3_393"
+  - first:
+      213: 6985844178630147775
+    second: "Sem T\xEDtulo-3_394"
+  - first:
+      213: 2057993812376110005
+    second: "Sem T\xEDtulo-3_395"
+  - first:
+      213: 1323645710132193541
+    second: "Sem T\xEDtulo-3_396"
+  - first:
+      213: -7316380575234189524
+    second: "Sem T\xEDtulo-3_397"
+  - first:
+      213: 1732254965952086519
+    second: "Sem T\xEDtulo-3_398"
+  - first:
+      213: 6688263435639526592
+    second: "Sem T\xEDtulo-3_399"
+  - first:
+      213: 2811492940360544031
+    second: "Sem T\xEDtulo-3_400"
+  - first:
+      213: 2708206684004697634
+    second: "Sem T\xEDtulo-3_401"
+  - first:
+      213: -7058648563765505944
+    second: "Sem T\xEDtulo-3_402"
+  - first:
+      213: -3767439382338780415
+    second: "Sem T\xEDtulo-3_403"
+  - first:
+      213: -4889362299962212705
+    second: "Sem T\xEDtulo-3_404"
+  - first:
+      213: -9019919502815858270
+    second: "Sem T\xEDtulo-3_405"
+  - first:
+      213: -6502337502398164326
+    second: "Sem T\xEDtulo-3_406"
+  - first:
+      213: 5809233254039987915
+    second: "Sem T\xEDtulo-3_407"
+  - first:
+      213: -7904808556828670141
+    second: "Sem T\xEDtulo-3_408"
+  - first:
+      213: -7293227187123036571
+    second: "Sem T\xEDtulo-3_409"
+  - first:
+      213: -5981769023000471391
+    second: "Sem T\xEDtulo-3_410"
+  - first:
+      213: -4631275866955878738
+    second: "Sem T\xEDtulo-3_411"
+  - first:
+      213: -6383703285417521639
+    second: "Sem T\xEDtulo-3_412"
+  - first:
+      213: -7867257460351757821
+    second: "Sem T\xEDtulo-3_413"
+  - first:
+      213: -4912863282502771413
+    second: "Sem T\xEDtulo-3_414"
+  - first:
+      213: 1220662670495886605
+    second: "Sem T\xEDtulo-3_415"
+  - first:
+      213: -3275685287833221666
+    second: "Sem T\xEDtulo-3_416"
+  - first:
+      213: -1361062904564770238
+    second: "Sem T\xEDtulo-3_417"
+  - first:
+      213: -7791886363170051202
+    second: "Sem T\xEDtulo-3_418"
+  - first:
+      213: -3310445835081515683
+    second: "Sem T\xEDtulo-3_419"
+  - first:
+      213: 6612424603834635625
+    second: "Sem T\xEDtulo-3_420"
+  - first:
+      213: -915923318695522026
+    second: "Sem T\xEDtulo-3_421"
+  - first:
+      213: -7067885806776286431
+    second: "Sem T\xEDtulo-3_422"
+  - first:
+      213: 3673225657761695174
+    second: "Sem T\xEDtulo-3_423"
+  - first:
+      213: -6717940038334337896
+    second: "Sem T\xEDtulo-3_424"
+  - first:
+      213: 288385228980773319
+    second: "Sem T\xEDtulo-3_425"
+  - first:
+      213: 6610722079546947012
+    second: "Sem T\xEDtulo-3_426"
+  - first:
+      213: -8485712442400301234
+    second: "Sem T\xEDtulo-3_427"
+  - first:
+      213: 2212065563936419030
+    second: "Sem T\xEDtulo-3_428"
+  - first:
+      213: -5478478526043635140
+    second: "Sem T\xEDtulo-3_429"
+  - first:
+      213: 4424480834264083340
+    second: "Sem T\xEDtulo-3_430"
+  - first:
+      213: 6350980429121225755
+    second: "Sem T\xEDtulo-3_431"
+  - first:
+      213: -1462502739841646748
+    second: "Sem T\xEDtulo-3_432"
+  - first:
+      213: -2308133412467196485
+    second: "Sem T\xEDtulo-3_433"
+  - first:
+      213: -583446773988481619
+    second: "Sem T\xEDtulo-3_434"
+  - first:
+      213: 923998421680254271
+    second: "Sem T\xEDtulo-3_435"
+  - first:
+      213: 6695160711692389939
+    second: "Sem T\xEDtulo-3_436"
+  - first:
+      213: 6101382160339959643
+    second: "Sem T\xEDtulo-3_437"
+  - first:
+      213: -2822318881942342156
+    second: "Sem T\xEDtulo-3_438"
+  - first:
+      213: 8215623141972209633
+    second: "Sem T\xEDtulo-3_439"
+  - first:
+      213: -2867111969062608843
+    second: "Sem T\xEDtulo-3_440"
+  - first:
+      213: -6414493105469313639
+    second: "Sem T\xEDtulo-3_441"
+  - first:
+      213: -2560641719326498837
+    second: "Sem T\xEDtulo-3_442"
+  - first:
+      213: 1258003529620861071
+    second: "Sem T\xEDtulo-3_443"
+  - first:
+      213: -7676308598209986988
+    second: "Sem T\xEDtulo-3_444"
+  - first:
+      213: 67973454206428465
+    second: "Sem T\xEDtulo-3_445"
+  - first:
+      213: -9017224454347070569
+    second: "Sem T\xEDtulo-3_446"
+  - first:
+      213: 7783905412408858927
+    second: "Sem T\xEDtulo-3_447"
+  - first:
+      213: 5343632115240393897
+    second: "Sem T\xEDtulo-3_448"
+  - first:
+      213: -636607246474899863
+    second: "Sem T\xEDtulo-3_449"
+  - first:
+      213: 3321147191589354304
+    second: "Sem T\xEDtulo-3_450"
+  - first:
+      213: 7975105659491209068
+    second: "Sem T\xEDtulo-3_451"
+  - first:
+      213: -8391634967826854368
+    second: "Sem T\xEDtulo-3_452"
+  - first:
+      213: 2823874722569854495
+    second: "Sem T\xEDtulo-3_453"
+  - first:
+      213: 5072623630495728982
+    second: "Sem T\xEDtulo-3_454"
+  - first:
+      213: -5873614658400695548
+    second: "Sem T\xEDtulo-3_455"
+  - first:
+      213: -5426880173376356659
+    second: "Sem T\xEDtulo-3_0"
+  - first:
+      213: 3895383920428159233
+    second: "Sem T\xEDtulo-3_1"
+  - first:
+      213: 3179616864047558746
+    second: "Sem T\xEDtulo-3_2"
+  - first:
+      213: 5144277889031110804
+    second: "Sem T\xEDtulo-3_3"
+  - first:
+      213: 7047425199313955715
+    second: "Sem T\xEDtulo-3_4"
+  - first:
+      213: 3583198697484796249
+    second: "Sem T\xEDtulo-3_5"
+  - first:
+      213: 5709538212853416520
+    second: "Sem T\xEDtulo-3_6"
+  - first:
+      213: -7781659004704853398
+    second: "Sem T\xEDtulo-3_7"
+  - first:
+      213: -3427082968292944072
+    second: "Sem T\xEDtulo-3_8"
+  - first:
+      213: 2691967903521604807
+    second: "Sem T\xEDtulo-3_9"
+  - first:
+      213: 6092683934738984339
+    second: "Sem T\xEDtulo-3_10"
+  - first:
+      213: -2115953491343180561
+    second: "Sem T\xEDtulo-3_11"
+  - first:
+      213: -6989427093173091321
+    second: "Sem T\xEDtulo-3_12"
+  - first:
+      213: 769912362943675531
+    second: "Sem T\xEDtulo-3_13"
+  - first:
+      213: 8978423951754336574
+    second: "Sem T\xEDtulo-3_14"
+  - first:
+      213: 6422473619335953181
+    second: "Sem T\xEDtulo-3_15"
+  - first:
+      213: 7182987463096594293
+    second: "Sem T\xEDtulo-3_16"
+  - first:
+      213: 2694287292402069334
+    second: "Sem T\xEDtulo-3_17"
+  - first:
+      213: 2481909016312663901
+    second: "Sem T\xEDtulo-3_18"
+  - first:
+      213: -6243626753934858821
+    second: "Sem T\xEDtulo-3_19"
+  - first:
+      213: 9088323154746390399
+    second: "Sem T\xEDtulo-3_20"
+  - first:
+      213: -3164117157459762223
+    second: "Sem T\xEDtulo-3_21"
+  - first:
+      213: -3026288338013357022
+    second: "Sem T\xEDtulo-3_22"
+  - first:
+      213: -1199779107179555035
+    second: "Sem T\xEDtulo-3_23"
+  - first:
+      213: -8028047241159544822
+    second: "Sem T\xEDtulo-3_24"
+  - first:
+      213: -7193522844659142571
+    second: "Sem T\xEDtulo-3_25"
+  - first:
+      213: -5396220650122737760
+    second: "Sem T\xEDtulo-3_26"
+  - first:
+      213: 1066821098293260591
+    second: "Sem T\xEDtulo-3_27"
+  - first:
+      213: 8957723683611010287
+    second: "Sem T\xEDtulo-3_28"
+  - first:
+      213: -7265195662583112544
+    second: "Sem T\xEDtulo-3_29"
+  - first:
+      213: 2111227817394166495
+    second: "Sem T\xEDtulo-3_30"
+  - first:
+      213: 5425258712846937941
+    second: "Sem T\xEDtulo-3_31"
+  - first:
+      213: -6616516013025464979
+    second: "Sem T\xEDtulo-3_32"
+  - first:
+      213: -7652816635372614131
+    second: "Sem T\xEDtulo-3_33"
+  - first:
+      213: 2393475857998230643
+    second: "Sem T\xEDtulo-3_34"
+  - first:
+      213: -6145462684620315158
+    second: "Sem T\xEDtulo-3_35"
+  - first:
+      213: -6172649525266151263
+    second: "Sem T\xEDtulo-3_36"
+  - first:
+      213: -5612414854955956514
+    second: "Sem T\xEDtulo-3_37"
+  - first:
+      213: 573857850038072536
+    second: "Sem T\xEDtulo-3_38"
+  - first:
+      213: -7854691537405009021
+    second: "Sem T\xEDtulo-3_39"
+  - first:
+      213: 2998480166302951432
+    second: "Sem T\xEDtulo-3_40"
+  - first:
+      213: 4663560761252558939
+    second: "Sem T\xEDtulo-3_41"
+  - first:
+      213: 717218526230498400
+    second: "Sem T\xEDtulo-3_42"
+  - first:
+      213: -1979375049995166469
+    second: "Sem T\xEDtulo-3_43"
+  - first:
+      213: 2850463274236043089
+    second: "Sem T\xEDtulo-3_44"
+  - first:
+      213: 2843351639679838278
+    second: "Sem T\xEDtulo-3_45"
+  - first:
+      213: -8712186271743627061
+    second: "Sem T\xEDtulo-3_46"
+  - first:
+      213: 2086072775616732915
+    second: "Sem T\xEDtulo-3_47"
+  - first:
+      213: -2351953530483538246
+    second: "Sem T\xEDtulo-3_48"
+  - first:
+      213: 1830971277818861142
+    second: "Sem T\xEDtulo-3_49"
+  - first:
+      213: 7721827342362573967
+    second: "Sem T\xEDtulo-3_50"
+  - first:
+      213: -6991491105740908086
+    second: "Sem T\xEDtulo-3_51"
+  - first:
+      213: 8032625315279417158
+    second: "Sem T\xEDtulo-3_52"
+  - first:
+      213: 7862471216271934555
+    second: "Sem T\xEDtulo-3_53"
+  - first:
+      213: -3952420955615376651
+    second: "Sem T\xEDtulo-3_54"
+  - first:
+      213: -1065384450778195562
+    second: "Sem T\xEDtulo-3_55"
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 102
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Sem T\xEDtulo-3_0"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 614.5714
+        width: 102.375
+        height: 102.42857
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dceba433c39dfa4b0800000000000000
+      internalID: -5426880173376356659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sem T\xEDtulo-3_1"
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 614.5714
+        width: 102.375
+        height: 102.42857
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10193e8790f2f0630800000000000000
+      internalID: 3895383920428159233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sem T\xEDtulo-3_2"
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 614.5714
+        width: 102.375
+        height: 102.42857
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a50756701b4402c20800000000000000
+      internalID: 3179616864047558746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sem T\xEDtulo-3_3"
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 614.5714
+        width: 102.375
+        height: 102.42857
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49088990c75246740800000000000000
+      internalID: 5144277889031110804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sem T\xEDtulo-3_4"
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 614.5714
+        width: 102.375
+        height: 102.42857
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38bae3241eb7dc160800000000000000
+      internalID: 7047425199313955715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sem T\xEDtulo-3_5"
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 614.5714
+        width: 102.375
+        height: 102.42857
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95149331b341ab130800000000000000
+      internalID: 3583198697484796249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sem T\xEDtulo-3_6"
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 614.5714
+        width: 102.375
+        height: 102.42857
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84285a011ca5c3f40800000000000000
+      internalID: 5709538212853416520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sem T\xEDtulo-3_7"
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 614.5714
+        width: 102.375
+        height: 102.42857
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a62f85d3d5ef10490800000000000000
+      internalID: -7781659004704853398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sem T\xEDtulo-3_8"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512.5714
+        width: 102.375
+        height: 102.42857
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8379b13a23e8070d0800000000000000
+      internalID: -3427082968292944072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sem T\xEDtulo-3_9"
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 512.5714
+        width: 102.375
+        height: 102.42857
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c4882cab8acb5520800000000000000
+      internalID: 2691967903521604807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sem T\xEDtulo-3_10"
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 512.5714
+        width: 102.375
+        height: 102.42857
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39da8da12cf8d8450800000000000000
+      internalID: 6092683934738984339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sem T\xEDtulo-3_11"
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 512.5714
+        width: 102.375
+        height: 102.42857
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fecfd3ba28f92a2e0800000000000000
+      internalID: -2115953491343180561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sem T\xEDtulo-3_12"
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 512.5714
+        width: 102.375
+        height: 102.42857
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94c0ccc26cf14f090800000000000000
+      internalID: -8001735701914973111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sem T\xEDtulo-3_13"
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 512.5714
+        width: 102.375
+        height: 102.42857
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92b88c01385f496d0800000000000000
+      internalID: -2984490709768697047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sem T\xEDtulo-3_14"
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 512.5714
+        width: 102.375
+        height: 102.42857
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f88fbe8b50672690800000000000000
+      internalID: -7627021497575438088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sem T\xEDtulo-3_15"
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 512.5714
+        width: 102.375
+        height: 102.42857
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 717d02ff9e54a6700800000000000000
+      internalID: 534316377106863895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sem T\xEDtulo-3_16"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 410.5714
+        width: 102.375
+        height: 102.42857
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ac6900ea58d400b0800000000000000
+      internalID: -5763243738310021975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sem T\xEDtulo-3_17"
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 410.5714
+        width: 102.375
+        height: 102.42857
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7515afea6dc0cb360800000000000000
+      internalID: 7186633221574644055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sem T\xEDtulo-3_18"
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 410.5714
+        width: 102.375
+        height: 102.42857
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cea02adbb0e10ba0800000000000000
+      internalID: -6124366920824082743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sem T\xEDtulo-3_19"
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 410.5714
+        width: 102.375
+        height: 102.42857
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbe0f8633f959be20800000000000000
+      internalID: 3366821097563426493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sem T\xEDtulo-3_20"
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 410.5714
+        width: 102.375
+        height: 102.42857
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e44379004d9881050800000000000000
+      internalID: 5771514466111272014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sem T\xEDtulo-3_21"
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 410.5714
+        width: 102.375
+        height: 102.42857
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b09f14ab84dfbf8c0800000000000000
+      internalID: -3964296558165231349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sem T\xEDtulo-3_22"
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 410.5714
+        width: 102.375
+        height: 102.42857
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af03e694c4f853260800000000000000
+      internalID: 7076719947294847226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sem T\xEDtulo-3_23"
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 410.5714
+        width: 102.375
+        height: 102.42857
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 546bc5eba4292e7c0800000000000000
+      internalID: -4043508665706301883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sem T\xEDtulo-3_24"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 308.5714
+        width: 102.375
+        height: 102.42857
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2be54c709a9d03c0800000000000000
+      internalID: -4391684116265440466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sem T\xEDtulo-3_25"
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 308.5714
+        width: 102.375
+        height: 102.42857
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53c386b437e7eabd0800000000000000
+      internalID: -2617015299804218315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sem T\xEDtulo-3_26"
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 308.5714
+        width: 102.375
+        height: 102.42857
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b700a3c74de22fa50800000000000000
+      internalID: 6553351897929613435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sem T\xEDtulo-3_27"
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 308.5714
+        width: 102.375
+        height: 102.42857
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09c7f4603c71b92c0800000000000000
+      internalID: -4423916082569446256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sem T\xEDtulo-3_28"
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 308.5714
+        width: 102.375
+        height: 102.42857
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c18f03ac746380e20800000000000000
+      internalID: 3316960807521155100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sem T\xEDtulo-3_29"
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 308.5714
+        width: 102.375
+        height: 102.42857
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7d85858e480679f0800000000000000
+      internalID: -471179977673044612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sem T\xEDtulo-3_30"
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 308.5714
+        width: 102.375
+        height: 102.42857
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c98f7459809b5c80800000000000000
+      internalID: -8332907766016407103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sem T\xEDtulo-3_31"
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 308.5714
+        width: 102.375
+        height: 102.42857
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca70193e0bec8d180800000000000000
+      internalID: -9090288588719847508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sem T\xEDtulo-3_32"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 206.57143
+        width: 102.375
+        height: 102.42857
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee1d1ce598f7d18a0800000000000000
+      internalID: -6332765273036041746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sem T\xEDtulo-3_33"
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 206.57143
+        width: 102.375
+        height: 102.42857
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23f4428323d4cd440800000000000000
+      internalID: 4961925767541051186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sem T\xEDtulo-3_34"
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 206.57143
+        width: 102.375
+        height: 102.42857
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9e948ef5dba3b5d0800000000000000
+      internalID: -3047903587213205857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sem T\xEDtulo-3_35"
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 206.57143
+        width: 102.375
+        height: 102.42857
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e710ce4362b032190800000000000000
+      internalID: -7988529055300583042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sem T\xEDtulo-3_36"
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 206.57143
+        width: 102.375
+        height: 102.42857
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9caf1f959e8defaf0800000000000000
+      internalID: -360612423395050807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sem T\xEDtulo-3_37"
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 206.57143
+        width: 102.375
+        height: 102.42857
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d163e224285b2ef90800000000000000
+      internalID: -6925773705881700835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sem T\xEDtulo-3_38"
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 206.57143
+        width: 102.375
+        height: 102.42857
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c6fbf90f905bd710800000000000000
+      internalID: 1719056326769505992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sem T\xEDtulo-3_39"
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 206.57143
+        width: 102.375
+        height: 102.42857
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25dc3d10f98674030800000000000000
+      internalID: 3478864269306744146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sem T\xEDtulo-3_40"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 104.57143
+        width: 102.375
+        height: 102.42857
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa7491a7c6c840490800000000000000
+      internalID: -7780939858656540758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sem T\xEDtulo-3_41"
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 104.57143
+        width: 102.375
+        height: 102.42857
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e62cf42a2886fc50800000000000000
+      internalID: 6698691210350700262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sem T\xEDtulo-3_42"
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 104.57143
+        width: 102.375
+        height: 102.42857
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c62e6c4743d1e5050800000000000000
+      internalID: 5791098281979732588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sem T\xEDtulo-3_43"
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 104.57143
+        width: 102.375
+        height: 102.42857
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4e370d88a41b9400800000000000000
+      internalID: 331881711694986831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sem T\xEDtulo-3_44"
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 104.57143
+        width: 102.375
+        height: 102.42857
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d93b05fe06d38ce0800000000000000
+      internalID: -1404043299080422960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sem T\xEDtulo-3_45"
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 104.57143
+        width: 102.375
+        height: 102.42857
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba0123a023e8df400800000000000000
+      internalID: 359599890830069931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sem T\xEDtulo-3_46"
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 104.57143
+        width: 102.375
+        height: 102.42857
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e67956d7c58495a10800000000000000
+      internalID: 1898628279991375726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sem T\xEDtulo-3_47"
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 104.57143
+        width: 102.375
+        height: 102.42857
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b14ebe02ad8aa1220800000000000000
+      internalID: 2457462201492694043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sem T\xEDtulo-3_48"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2.5714264
+        width: 102.375
+        height: 102.42857
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e4bfe34fc9843e10800000000000000
+      internalID: 2176516043217810661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sem T\xEDtulo-3_49"
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 2.5714264
+        width: 102.375
+        height: 102.42857
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26a497378c9e1b560800000000000000
+      internalID: 7327895115848567394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sem T\xEDtulo-3_50"
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 2.5714264
+        width: 102.375
+        height: 102.42857
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 917b49dc816235de0800000000000000
+      internalID: -1345689975683500263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sem T\xEDtulo-3_51"
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 2.5714264
+        width: 102.375
+        height: 102.42857
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6975c31f4ae08610800000000000000
+      internalID: 1621553491208403309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sem T\xEDtulo-3_52"
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 2.5714264
+        width: 102.375
+        height: 102.42857
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e50049af41c2e6f0800000000000000
+      internalID: -656750047756548634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sem T\xEDtulo-3_53"
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 2.5714264
+        width: 102.375
+        height: 102.42857
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d7e31d19d8f1d350800000000000000
+      internalID: 6039882186659981267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sem T\xEDtulo-3_54"
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 2.5714264
+        width: 102.375
+        height: 102.42857
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b62b51f6b93ac4a0800000000000000
+      internalID: -6572377248297703754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sem T\xEDtulo-3_55"
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 2.5714264
+        width: 102.375
+        height: 102.42857
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b266c97c7f4446790800000000000000
+      internalID: -7537824045314841045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
